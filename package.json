@@ -1,0 +1,14 @@
+{
+  "name": "wa",
+  "version": "1.0.0",
+  "description": "Creating Weather node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
